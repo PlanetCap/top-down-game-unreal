@@ -1,8 +1,14 @@
-## 📌 Pull Request Summary
+## 📌 Pull Request Summary 
 
 Short and clear summary of what this PR does. Example: Adds checkpoint system, fixes UI bug in pause menu, etc.
 
-## 🧠 What was done?
+## Type of Change
+- [ ] Bug fix 
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Content/Asset addition
+
+## 🧠 What was done? 
 
 - [ ] Blueprint logic
 - [ ] UI / HUD
@@ -26,9 +32,11 @@ List any bugs or incomplete parts related to this PR (if any)
 ## ✅ Checklist
 
 - [ ] The project runs without errors
+- [ ] Code follows project style guidelines
 - [ ] No existing functionality was broken
 - [ ] Blueprints are cleaned up (no unused nodes or comments)
 - [ ] Variable and function names are meaningful
+- [ ] No merge conflicts
 - [ ] Changes follow naming conventions (`BP_`, `UI_`, `SFX_`, etc.)
 - [ ] Changes were tested in-editor
 
