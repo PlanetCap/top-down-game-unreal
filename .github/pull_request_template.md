@@ -1,16 +1,14 @@
-## 📌 Pull Request Summary || Resumen de Pull Request
+## 📌 Pull Request Summary 
 
 Short and clear summary of what this PR does. Example: Adds checkpoint system, fixes UI bug in pause menu, etc.
-Agregar un resumen claro y corto de lo que este PR hace. Ejemplo: Adds checkpoint system, fixes UI bug in pause menu, etc.
 
-## Type of Change || Tipo de cambio
-- [ ] Bug fix ||
+## Type of Change
+- [ ] Bug fix 
 - [ ] New feature
-- [ ] Breaking change
 - [ ] Documentation update
 - [ ] Content/Asset addition
 
-## 🧠 What was done? || Que se realizó?
+## 🧠 What was done? 
 
 - [ ] Blueprint logic
 - [ ] UI / HUD
